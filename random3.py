@@ -6,7 +6,7 @@ def duplicate(l):
     return result
 
 
-my_lst = [1, 2, 3, 4, 2, 3, 5, 6, 4]
+my_lst = [1, 2, 3, 4, 2, 3, 5, 4, 4]
 result = duplicate(my_lst)
 print("result_lst",result)
 print("oringinal lst",my_lst)
